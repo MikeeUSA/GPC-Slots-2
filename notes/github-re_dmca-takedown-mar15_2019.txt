@@ -1,0 +1,101 @@
+> > Re: DMCA takedown notice
+> > To 	GitHub Staff
+> > Date 	Mar 15, 2019
+
+
+
+I am going to sue your staff for contributory copyright infringement in their personal capacity, in addition to you company.
+I have given you ample notice to remove the work.
+
+> Moreover, you have not addressed other doctrines, such as reliance or promissory estoppel, which would prevent revocation even in the absence of valuable consideration.
+
+These are equitable defenses. Not defenses-at-law. They are determined on a case by case basis. Promissory estoppel is most often "awarded" when a defendant has, on the reliance of explicit promises to him by the owner, laid out monies to purchase improvements for the affected property.
+
+An example is when one builds extra buildings on a piece of land one was promised ownership on upon the owners death.  It is much related to the old Livery of Seisin which was used in the conveyance of land and is, in fact, a modern substitute for it.
+
+There is little relevance between such and a licensee, one of many, who, for no outlay, had permission to use a piece of software. Permission which was later revoked.
+
+> Similarly, based on the information you've provided, we are unable to
+> locate facts which would support for your argument that any of the GPL
+> licensed code here was granted that license without an exchange of
+> valuable consideration.
+
+The John Doe would have to prove that there was a contract, it is not me, the copyright holder, who's duty it is to show that there was none.
+One cannot prove a negative. You know this very well.
+It is the consideration (payment) that would create a contract which a licensee could attempt to rely upon.
+Where there is no such consideration there is no contract.
+
+Here the John Doe admitted that he simply downloaded the work and also admitted that there was no contract between him and I
+"Thank God", he added.
+
+This is attested to in the original complaint, the John Doe is quoted, and his testimony is linked.
+However it is not my duty to prove to you that there is _not_ any consideration.
+
+That is proving a negative. It is a duty of the John Doe's defense to prove that there is such a payment, which there is not.
+I was never paid by the John Doe.
+
+You are being completely disingenuous here. You think you are clever, but you will be sorry once my legal bill is being paid out of your personal expenses for your blatant copyright infringement of my work. The courts won't think you're "cute" or "clever".
+
+I have addressed your claim that my signature was invalid. Your understanding of what is required of a signature and the purpose of a signature is incorrect. A signature simply shows assent of the party to the validity of the document. An X is sufficient. Here I have chosen to use my long-held pen name, MikeeUSA. I have also published these notices at the place of the publication of the work, to give further confirmation.
+
+https://sourceforge.net/projects/gpcslots2/
+https://sourceforge.net/projects/gpcslots2/files/notes/
+
+Forewarned is forearmed.
+
+Sincerely, 
+Signed,
+--MikeeUSA--
+
+
+On 2019-03-07 02:30, GitHub Staff wrote:
+> Hi MikeeUSA,
+> 
+> I've done my best to address your concerns below. Until you provide a
+> complete DMCA takedown notice, we are unable to act on your request.
+> 
+>> My publishing of these notices on my long-held sourceforge account,
+>> along side the download link is sufficient for a reasonable person
+>> to conclude that I, the author of the program, am the issuer of the
+>> request.
+> 
+> As explained in our previous email, that is not the standard required
+> by 17 U.S.C. 512(3)(a)(i).
+> 
+>> I have chosen to do so in rescinding the license of the John Doe.
+> 
+> Based on the information you've provided, we are unable to determine
+> that any valid license revocation has taken place here.
+> 
+>> A license, that is not supported by an interest, is revocable ...
+>> An interest attaches when a licensee pays
+>> the copyright holder for the receipt of a license, or transmits valuable
+>> bargained-for consideration to the copyright holder. Absent such anattached
+>> interest there exists only a revocable-at-will bare license.
+> 
+> Similarly, based on the information you've provided, we are unable to
+> locate facts which would support for your argument that any of the GPL
+> licensed code here was granted that license without an exchange of
+> valuable consideration. Moreover, you have not addressed other
+> doctrines, such as reliance or promissory estoppel, which would
+> prevent revocation even in the absence of valuable consideration.
+> 
+>> The url you link to advances a false legal theory unsupported under US
+>> Jurisprudence.
+> 
+> While they are in easily-missed footnotes, the linked article contains
+> citations to three cases which support their respective underlying
+> legal theories. Please note the article is provided for informational
+> purposes, and GitHub is unable to give legal advice about open-source
+> licensing or copyright questions.
+> 
+> If you would like to revise your notice to include the required
+> details, please send back the entire revised notice, and not only the
+> corrected
+> sections. Once we've received a complete and actionable DMCA notice,
+> we will process it expeditiously.
+> 
+> Thanks,
+> 
+> GitHub Staff
+

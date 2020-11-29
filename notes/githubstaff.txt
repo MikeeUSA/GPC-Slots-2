@@ -1,0 +1,165 @@
+You take it down or I sue you, simple as that.
+
+I have revoked the license from a number of people, including the John Doe who has chosen to violate my copyright thence-forth.
+
+I have signed using my 2 decades long held pen-name.
+
+The U.S. Code defines an electronic signature for the purpose of US law as "an electronic sound, symbol, or process, attached to or logically associated with a contract or other record and executed or adopted by a person with the intent to sign the record."
+
+My signing with my pen-name suffices for this purpose. What is important is my intent to sign the record, which I have evinced.
+
+I have also posted the information on my long-held project page, so that you may know that I am me:
+https://sourceforge.net/projects/gpcslots2/files/notes/
+
+https://sourceforge.net/projects/gpcslots2/files/notes/tkdnreq_github.txt/download
+https://sourceforge.net/projects/gpcslots2/files/notes/takedownreq_vs_johndoe-of-8ch.txt/download
+
+(I have also uploaded this response to said /notes/ directory)
+
+In addition to many other places.
+Your contention that I must do anything greater at this point is legally inefficacious.
+
+I _DEMAND_ that you take the offending material down immediately.
+
+--MikeeUSA--
+(Author of GPC-Slots 2)
+(electronic signature)
+
+On 2019-02-06 21:20, GitHub Staff wrote:
+> Hi MikeeUSA, 
+> 
+> Thank you for your notices, the most recent of which is included below
+> for reference. 
+> 
+> This DMCA notice is incomplete. It lacks "A physical or electronic
+> signature of a person authorized to act on behalf of the owner of an
+> exclusive right that is allegedly infringed" and "Information
+> reasonably sufficient to permit the service provider to contact the
+> complaining party." 
+> 
+> Unfortunately, an electronic signature must be a legal name, not a
+> monicker or username, and we cannot accept disposable or temporary
+> email addresses as reliable contact information for a DMCA notice. 
+> 
+> Once you've revised your notice to include the required details,
+> please send back the entire revised notice, and not only the corrected
+> sections. Once we've received a complete and actionable notice, we'll
+> process it expeditiously. 
+> 
+> Thanks, 
+> 
+> GitHub Staff 
+> -------------------------
+> 
+> I have a good faith belief that use of the copyrighted materials
+> described above on the infringing web pages is not authorized by the
+> copyright owner, or its agent, or the law. I have taken fair use into
+> consideration. 
+> 
+> I swear, under penalty of perjury, that the information in this
+> notification is accurate and that I am the copyright owner, or am
+> authorized to act on behalf of the owner, of an exclusive right that
+> is allegedly infringed.
+> : 
+> 
+> As you may know, In the United States; a license, absent an attached
+> interest, is revocable. 
+> 
+> A "John Doe" had his non-exclusive license regarding the game
+> "GPC-Slots2" terminated by the copyright owner (me: MikeeUSA).
+> The copyright owner may do this as-of-right, unless there is an
+> attached interest (ie: unless the licensee paid good consideration for
+> the license). 
+> 
+> The "John Doe" then proceeded to belligerently upload a copy of
+> "GPC-Slots2" to your host, GitHub.
+> This violated Author's (my) copyright, since "John Doe"'s gratuitous
+> bare license had been terminated by the copyright holder (me). 
+> 
+> The "John Doe" then proceeded to modify my work, which again violated
+> my copyright since I had previously revoked his license.
+> The license flows from me, the copyright owner, not any text. It is
+> permission to use, redistribute, modify, etc. Instructions on how to
+> use my property.
+> When such permission is not supported by any consideration, it may be
+> rescinded by the owner, at his will.
+> (/Regardless/ of the "terms". "Terms" are only enforceable against the
+> grantor if the licensee has paid consideration for them, essentially,
+> under US law.) 
+> 
+> I have done so. 
+> 
+> I reiterated to the "John Doe" that his license had been terminated. 
+> 
+> "John Doe" then informed me that I "can't do that". I tried to explain
+> to him US law.
+> "John Doe" declared that he did not care and would keep the violating
+> work up, in defiance of me.
+> (IE: he would "pirate" it) 
+> 
+> He then cited works from a discredited paralegal while I cited
+> published works by lawyers studied in their field. 
+> 
+> (Note: I make no claim to PERL, the color ansi library, any supporting
+> libraries, or the -2 split screen function. My copyright covers the
+> game code of GPC-Slots2. I (MikeeUSA) am the original author of the
+> work and never signed over copyright to the work.)
+> (Note: "obeying the terms" (obeying the copyright holders instructions
+> regarding the use of his property) is not consideration: it is a
+> preexisting legal duty: outside of the "terms" there is no right for
+> the licensee to copy, modify, make derivative works, distribute,
+> distribute derivative works) 
+> 
+> [Additionally "John Doe" registered a fraudulent account under my
+> long-held non-de-gurre, adding a Code of Conduct ("CoC"), something I
+> would never do (being opposed to "CoC" for gratis projects on
+> principal)] 
+> 
+> I now have no choice but to issue a DMCA take-down request, to you,
+> GitHub. 
+> 
+> Regrettably;
+> --MikeeUSA--
+> (electronic signature)
+> Jan 29, 2019 
+> 
+> (Addendum: "John Doe" then uploaded the modified work to gitlab.com
+> and bitbucket.org 
+> 
+> Contact information:
+> email: mikeeusa@redchan.it 
+> 
+> infringing content: github.com/MikeeUSA/GPC-Slots-2
+> gitlab.com/MikeeUSA/GPC-Slots-2
+> bitbucket.org/MikeeUSA/gpc-slots-2
+> The material is not authorized by me, the copyright owner of the
+> GPC-Slots2 game code, as I explicitly rescinded the license from the
+> "John Doe", and he acknowledged that I had informed him of such and
+> communicated that he would defy my will regarding my property and
+> copyright.
+> Everything stated within this above communication is accurate to the
+> best of my knowledge and ability. 
+> 
+> Some notices to you, github (and now gitlab and bitbucket):
+> 1) Yes I viewed your page at:
+> https://help.github.com/articles/guide-to-submitting-a-dmca-takedown-notice/
+> 2) Yes this is "opensource" code.
+> 3) No that does not matter:
+> The GPL(any version), being a bare license, is revocable
+> ("retroactively").
+> Just as any bare license, not supported by an interest, in the US.
+> The "John Doe" is not in privity of contract with me and has paid me
+> no consideration.
+> He cannot "bind" me (the grantor) to the terms.
+> It is his duty to abide by my instructions regarding my property.
+> I did not transfer my property away, the license is just that: a
+> license (temporary permission, that can be rescinded unless a "term"
+> was indeed "purchased")
+> It is also his duty to cease all use, modification, distribution of my
+> property at my demand.
+> I have made such a demand.
+> 4) Yes I will consider taking legal action against you if you do not
+> heed my request.
+> Cite the paralegal from groklaw, ZDnet, the FSF, and the SFConservancy
+> all you want.
+> They are wrong on the law and have been wrong for 10 years.
